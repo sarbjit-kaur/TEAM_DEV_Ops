@@ -1,0 +1,1 @@
+put the folder in tibco_install_centos into the vagran project folder

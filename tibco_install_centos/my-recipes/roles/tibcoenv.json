@@ -1,0 +1,9 @@
+{ 
+  "name": "tibcoenv", 
+  "default_attributes": { }, 
+  "override_attributes": { }, 
+  "json_class": "Chef::Role", 
+  "description": "This is tibco env setup role", 
+  "chef_type": "role", 
+  "run_list": [ "recipe[tibco]" ] 
+}
